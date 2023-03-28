@@ -6,7 +6,7 @@ Instrutora [x] Fernanda Santos
 Aluno [x] Erickson Menezes
 
 
- **Assuntos abordados neste curso**:
+ **Assuntos abordados neste curso**: 
  1. Python Básico
  1. Estrutura de dados
  1. Introdução a Biblioteca Pandas
